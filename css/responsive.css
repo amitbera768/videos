@@ -1,0 +1,214 @@
+@media screen and (min-width: 992px) and (max-width: 1199px){
+
+	.ace-responsive-menu > li > a{
+		padding: 18px 10px 18px 10px;
+		font-size: 12px;
+	}
+
+	footer ul li a{
+		font-size: 11px;
+	}
+
+}
+
+@media screen and (min-width: 769px) and (max-width: 991px){
+
+	section{
+		margin-top: 30px;
+	}
+
+	.logo{
+		text-align: center;
+		padding-bottom: 20px;
+	}
+	.headerright:before{
+		display: none;
+	}
+
+	.right_area{
+		width: auto;
+		float: right;
+	}
+	.ace-responsive-menu > li > a{
+		padding: 18px 8px 18px 8px;
+		font-size: 11px;
+	}
+
+	.videooverlay .inner .name{
+		font-size: 12px
+	}
+
+	.videooverlay .inner .date{
+		font-size: 12px
+	}
+
+	footer ul li a{
+		font-size: 11px;
+	}
+
+	footer h3{
+		margin: 25px 0 15px 0;
+	}
+
+	footer .bottom .botlinks ul li:first-child{
+		padding-left: 0px;
+
+	}
+
+	.langsec h3{
+		margin-top: 20px;
+	}
+
+	.resimg{
+		margin-top: 20px;
+		text-align: center;
+	}
+
+	.packbox{
+		width: 100%;
+	}
+
+}
+
+@media screen and (min-width: 360px) and (max-width: 768px){
+
+	.subbar{
+		margin-top: 0;
+	}
+
+	.subbar h2{
+		font-size: 15px;
+	}
+
+	.vidcontent .social{
+		float: left;
+		margin-top: 30px;
+	}
+	.pvideoinner{
+		width: 100%;
+	}
+
+	.coonetbox{
+		float: left;
+		width: 100%;
+		margin-top: 0;
+	}
+
+	.langsec h3{
+		margin-top: 20px;
+	}
+
+	.resimg{
+		margin-top: 20px;
+		text-align: center;
+	}
+
+	.packbox{
+		width: 100%;
+	}
+
+	/*#colorbox{
+		width: 100% !important;
+		height: 203px !important;
+		left: 0px !important;
+	}
+
+	#cboxWrapper{
+		width: 100% !important;
+		height: 303px !important;
+	}*/
+
+	.loginpage::after{
+		display: none;
+	}
+
+	.loginsocial{
+		text-align: center;
+	}
+
+	.overlay_login a{
+		display: inline-block;
+	}
+
+	section{
+		margin-top: 30px;
+	}
+
+	.logo{
+		text-align: center;
+		padding-bottom: 20px;
+	}
+	.headerright:before{
+		display: none;
+	}
+
+	.right_area{
+		width: auto;
+		border: 0px;
+		padding-left: 0;
+		position: absolute;
+	}
+
+	.grid{
+		padding-bottom: 0px;
+	}
+
+	.ace-responsive-menu{
+		margin-left: 0px;
+		margin-top: 60px;
+	}
+
+	.middlearea{
+		padding: 30px 15px;
+	}
+
+	.menu-toggle{
+		position: absolute;
+		right: 15px;
+	}
+	.ace-responsive-menu > li > a{
+		padding: 18px 8px 18px 8px;
+		font-size: 11px;
+	}
+
+	.videooverlay .inner .name{
+		font-size: 12px
+	}
+
+	.videooverlay .inner .date{
+		font-size: 12px
+	}
+
+	footer ul li a{
+		font-size: 11px;
+	}
+
+	footer h3{
+		margin: 25px 0 15px 0;
+	}
+
+	footer .bottom .botlinks ul li:first-child{
+		padding-left: 0px;
+
+	}
+
+	.slide_viewer{
+		height: 145px;
+	}
+
+	.slide img{
+		width: 100%;
+	}
+
+	header{
+		position: static;
+	}
+
+	.banner{
+		margin: 0px;
+	}
+
+	
+
+}
+
